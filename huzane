@@ -1,0 +1,4 @@
+gem update install
+gem install "mysql"
+bundle install
+rails new "project"
